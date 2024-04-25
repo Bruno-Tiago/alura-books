@@ -24,6 +24,10 @@
   padding: 1em;
 }
 
+.container__texto {
+  display: none;
+}
+
 .lista-menu {
   display: none;
   position: absolute;
@@ -115,5 +119,17 @@
     align-items: center;
     text-decoration: none;
     color: var(--preto);
+  }
+
+  .cabecalho {
+    padding: 0 2em;
+  }
+
+  .opcoes {
+    margin-right: auto;
+  }
+
+  .container__texto {
+    display: block;
   }
 }
