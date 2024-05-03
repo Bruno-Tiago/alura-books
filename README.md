@@ -10,7 +10,7 @@ AluraBooks é uma página de um projeto de e-commerce de livros para desenvolved
 
 ## Execução do projeto:
 
-https://mochila-de-viagem-olive-eight.vercel.app/
+https://alura-books-virid-xi.vercel.app/
 
 ## Feito por:
 
