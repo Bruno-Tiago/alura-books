@@ -1,19 +1,17 @@
 # AluraBooks
 
-AluraBooks é uma página de um projeto de e-commerce de livros para desenvolvedores, desenvolvido com foco em mobile first, mas com acessibilidade para tablets e desktops.
+AluraBooks é uma página de um projeto de e-commerce de livros voltado para desenvolvedores, construído com ênfase em mobile first, mas com suporte para tablets e desktops.
 
-## Ferramentas utilizadas:
+## Ferramentas Utilizadas
 
-* HTML
+- HTML
+- CSS
 
-* CSS
+## Executando o Projeto
 
-## Execução do projeto:
+Você pode acessar o projeto clicando [aqui](https://alura-books-virid-xi.vercel.app/).
 
-https://alura-books-virid-xi.vercel.app/
+## Feito por
 
-## Feito por:
-
-### Bruno Tiago da Silva
-
-### Linkedin: https://www.linkedin.com/in/bruno-tiago-silva-1a9b17138/
+**Bruno Tiago da Silva**  
+LinkedIn: [Bruno Tiago da Silva](https://www.linkedin.com/in/bruno-tiago-silva-1a9b17138/)
